@@ -38,7 +38,7 @@
 
 #nav ul li {
 	display: inline-block;
-	font-size: 15px;	
+	font-size: 15px;
 	padding: 2px 20px;
 	border-right: 1px solid #42535B;
 	color:#A9B9B9;
@@ -96,13 +96,13 @@
 .notesarea a{
 	color: #CAFE90;
 	padding: 2px;
-	
+
 }
 #textbox {
 	margin-top: 15px;
 	width: 170px;
 	height: 110px;
-	
+
 }
 
 #textbox p{
@@ -125,7 +125,7 @@
 	padding: 20px;
 }
 .sampletext h4{
-	color: #FFFCFA;
+	color: black;
 	padding-top: 20px;
 }
 .sampletext p{
@@ -173,55 +173,3 @@
 #contentimg2 img{
 	border: 2px solid white;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
